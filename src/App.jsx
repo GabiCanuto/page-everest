@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import "./Index.css";
+import "./index.css";
 
 function App() {
   const PUBLIC_WHATSAPP_URL = import.meta.env.VITE_PUBLIC_WHATSAPP_URL || "#";
